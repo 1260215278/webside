@@ -136,7 +136,7 @@
         },
         sectionLink: {
           aboutUs: "Who We are",
-          bitstampWay: "The Bitstamp Way",
+          bitstampWay: "The Qovex Way",
           careers: "Careers",
           legalAndPrivacy: "Legal & Privacy",
           legalAndPrivacyUsa: "Legal & Privacy - USA",

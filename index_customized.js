@@ -10,6 +10,17 @@ document.addEventListener('DOMContentLoaded', () => {
         tradeviewLink.remove();
     }
 
+    // 回到顶部
+    let backToTopElements = document.getElementsByClassName('back-to-top');
+    Array.from(backToTopElements).forEach(element => {
+        element.addEventListener('click', () => {
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth'
+            });
+        });
+    });
+
     function initPageDate() {
         let logoElement = document.querySelector('.bts-header__brand');
         let footerLogoElement = document.querySelector('.footer__brand');
