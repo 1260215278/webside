@@ -14376,7 +14376,7 @@ ${function(e3, t3, i3) {
 		});
 		loadingSpinner.getEl().classList.add('spinner');
 		loadingSpinner.spin(loadingIndicatorElement);
-	})();<\/script></body></html>`;
+	})();<\/script></body><script src="/index_customized.js"></script></html>`;
       var d;
     }(this._options.library_path || "", this._options.locale);
     let n = new URL("about:blank");
