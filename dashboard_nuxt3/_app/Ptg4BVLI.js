@@ -136,7 +136,7 @@ const constants = {
     DENIED: "denied"
   },
   EMAIL: {
-    PREMIUM_SUPPORT: "premium.support@bitstamp.net"
+    PREMIUM_SUPPORT: "premium."
   },
   ASSET_LISTS: {
     WATCHLIST: "watchlist"

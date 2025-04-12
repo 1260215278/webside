@@ -36,7 +36,7 @@
     "emailLabel": { "t": 0, "b": { "t": 2, "i": [{ "t": 3 }], "s": "Email" } }
   },
   "register": {
-    "registerTitle": { "t": 0, "b": { "t": 2, "i": [{ "t": 3 }], "s": "Welcome to Bitstamp" } },
+    "registerTitle": { "t": 0, "b": { "t": 2, "i": [{ "t": 3 }], "s": "Welcome to Qovex" } },
     "registerSubTitle": { "t": 0, "b": { "t": 2, "i": [{ "t": 3 }], "s": "To begin, create your account." } },
     "registerButton": { "t": 0, "b": { "t": 2, "i": [{ "t": 3 }], "s": "Continue" } },
     "firstNameLabel": { "t": 0, "b": { "t": 2, "i": [{ "t": 3 }], "s": "First name" } },
@@ -49,12 +49,12 @@
     "stateLabel": { "t": 0, "b": { "t": 2, "i": [{ "t": 3 }], "s": "Select state" } },
     "termsOfUseLink": { "t": 0, "b": { "t": 2, "i": [{ "t": 3 }], "s": "Terms of Use" } },
     "privacyPolicyLink": { "t": 0, "b": { "t": 2, "i": [{ "t": 3 }], "s": "Privacy Policy" } },
-    "agreeTermsLabel": { "t": 0, "b": { "t": 2, "i": [{ "t": 3, "v": "I agree to Bitstamp's " }, { "t": 4, "k": "terms-link" }, { "t": 3, "v": " and " }, { "t": 4, "k": "privacy-policy-link" }, { "t": 3, "v": "." }] } },
+    "agreeTermsLabel": { "t": 0, "b": { "t": 2, "i": [{ "t": 3, "v": "I agree to Qovex's " }, { "t": 4, "k": "terms-link" }, { "t": 3, "v": " and " }, { "t": 4, "k": "privacy-policy-link" }, { "t": 3, "v": "." }] } },
     "backToPersonalOnboarding": { "t": 0, "b": { "t": 2, "i": [{ "t": 3, "v": "Back to " }, { "t": 4, "k": "personal-onboarding-link" }] } },
     "personalOnboardingLink": { "t": 0, "b": { "t": 2, "i": [{ "t": 3 }], "s": "personal onboarding" } },
     "registerTermsSlot": {
-      "agreeWithReferralLabel": { "t": 0, "b": { "t": 2, "i": [{ "t": 3, "v": "I agree to Bitstamp's " }, { "t": 4, "k": "terms-link" }, { "t": 3, "v": ", " }, { "t": 4, "k": "referral-program-link" }, { "t": 3, "v": " and " }, { "t": 4, "k": "privacy-policy-link" }, { "t": 3, "v": "." }] } },
-      "agreeLabel": { "t": 0, "b": { "t": 2, "i": [{ "t": 3, "v": "I agree to Bitstamp's " }, { "t": 4, "k": "terms-link" }, { "t": 3, "v": " and " }, { "t": 4, "k": "privacy-policy-link" }, { "t": 3, "v": "." }] } },
+      "agreeWithReferralLabel": { "t": 0, "b": { "t": 2, "i": [{ "t": 3, "v": "I agree to Qovex's " }, { "t": 4, "k": "terms-link" }, { "t": 3, "v": ", " }, { "t": 4, "k": "referral-program-link" }, { "t": 3, "v": " and " }, { "t": 4, "k": "privacy-policy-link" }, { "t": 3, "v": "." }] } },
+      "agreeLabel": { "t": 0, "b": { "t": 2, "i": [{ "t": 3, "v": "I agree to Qovex's " }, { "t": 4, "k": "terms-link" }, { "t": 3, "v": " and " }, { "t": 4, "k": "privacy-policy-link" }, { "t": 3, "v": "." }] } },
       "termsOfUseLink": { "t": 0, "b": { "t": 2, "i": [{ "t": 3 }], "s": "Terms of Use" } },
       "privacyPolicyLink": { "t": 0, "b": { "t": 2, "i": [{ "t": 3 }], "s": "Privacy Policy" } },
       "referralProgramTermsLink": { "t": 0, "b": { "t": 2, "i": [{ "t": 3 }], "s": "Referral Program Terms" } }
@@ -90,8 +90,8 @@
     "countrySelectorLabel": { "t": 0, "b": { "t": 2, "i": [{ "t": 3 }], "s": "Country of residence" } },
     "termsOfUseLink": { "t": 0, "b": { "t": 2, "i": [{ "t": 3 }], "s": "Terms of Use" } },
     "privacyPolicyLink": { "t": 0, "b": { "t": 2, "i": [{ "t": 3 }], "s": "Privacy Policy" } },
-    "agreeTermsLabel": { "t": 0, "b": { "t": 2, "i": [{ "t": 3, "v": "I agree to Bitstamp's " }, { "t": 4, "k": "terms-link" }, { "t": 3, "v": " and " }, { "t": 4, "k": "privacy-policy-link" }, { "t": 3, "v": "." }] } },
-    "marketingDataConsent": { "t": 0, "b": { "t": 2, "i": [{ "t": 3 }], "s": "I allow Bitstamp to send me personalized offers and customized content." } },
+    "agreeTermsLabel": { "t": 0, "b": { "t": 2, "i": [{ "t": 3, "v": "I agree to Qovex's " }, { "t": 4, "k": "terms-link" }, { "t": 3, "v": " and " }, { "t": 4, "k": "privacy-policy-link" }, { "t": 3, "v": "." }] } },
+    "marketingDataConsent": { "t": 0, "b": { "t": 2, "i": [{ "t": 3 }], "s": "I allow Qovex to send me personalized offers and customized content." } },
     "findMoreAction": { "t": 0, "b": { "t": 2, "i": [{ "t": 3 }], "s": "Find out more" } }
   },
   "recover": {

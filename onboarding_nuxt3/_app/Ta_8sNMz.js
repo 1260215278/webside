@@ -85,7 +85,7 @@
     },
     fieldEntityTermsOfUse: {
       title: "Changing the country of residency at this point will change the Qovex legal entity you are registering to.",
-      agreeStatement: `I agree to Bitstamp's {terms-link}{referral-link} and {privacy-policy-link}.`,
+      agreeStatement: `I agree to Qovex's {terms-link}{referral-link} and {privacy-policy-link}.`,
       termsOfUse: "Terms of Use",
       referralProgramTerms: "Referral Program Terms",
       privacyPolicy: "Privacy Policy"
@@ -96,7 +96,7 @@
       moreInfoAction: "More Info"
     },
     fieldTermsOfUse: {
-      agreeStatement: `I agree to Bitstamp's {terms-link}{referral-link} and {privacy-policy-link}.`,
+      agreeStatement: `I agree to Qovex's {terms-link}{referral-link} and {privacy-policy-link}.`,
       termsOfUse: "Terms of Use",
       referralProgramTerms: "Referral Program Terms",
       privacyPolicy: "Privacy Policy",
@@ -147,8 +147,8 @@
           earnStake: "Earn Stake",
           earnLend: "Earn Lend",
           institutionsAndPartners: "Institutions & Partners",
-          baas: "Bitstamp as a Service",
-          bitstampEcosystem: "The Bitstamp Ecosystem",
+          baas: "Qovex as a Service",
+          bitstampEcosystem: "The Qovex Ecosystem",
           pro: "Pro",
           apiDocumentation: "API Documentation",
           httpApi: "HTTP API",
@@ -158,20 +158,20 @@
           lightningNetwork: "Lightning Network",
           customerSupport: "Customer Support"
         },
-        telegramExchangeLink: "Bitstamp Exchange",
-        telegramExchangeTitle: "Telegram - Bitstamp Exchange",
-        telegramSupportLink: "Bitstamp Support",
-        telegramSupportTitle: "Telegram - Bitstamp Support",
-        telegramCommunityLink: "Bitstamp Community",
-        telegramCommunityTitle: "Telegram - Bitstamp Community",
-        incDisclaimer: "Bitstamp USA, Inc. is licensed to engage in Virtual Currency Business Activity by the New York State Department of Financial Services. Licensed as a Money Transmitter by the New York State Department of Financial Services.",
+        telegramExchangeLink: "Qovex Exchange",
+        telegramExchangeTitle: "Telegram - Qovex Exchange",
+        telegramSupportLink: "Qovex Support",
+        telegramSupportTitle: "Telegram - Qovex Support",
+        telegramCommunityLink: "Qovex Community",
+        telegramCommunityTitle: "Telegram - Qovex Community",
+        incDisclaimer: "Qovex USA, Inc. is licensed to engage in Virtual Currency Business Activity by the New York State Department of Financial Services. Licensed as a Money Transmitter by the New York State Department of Financial Services.",
         bfsDisclaimer: {
-          disclaimerText: "Bitstamp Financial Services, brokerage company, Ltd. (“BFS”) is authorized and supervised as a MiFID investment firm by the Slovenian Securities Market Agency (ATVP) and provides investment services and other ancillary services with regards to trading in crypto derivatives. Trading crypto derivatives carries significant risks and may result in substantial losses. Please trade responsibly and ensure you understand the associated risks. You can find more about the risks {generalTermsAndConditionsLink}. To help you understand the risks involved we have put together a series of {keyInformationDocumentsLink} highlighting the risks and rewards related to each derivatives contract.",
+          disclaimerText: "Qovex Financial Services, brokerage company, Ltd. (“BFS”) is authorized and supervised as a MiFID investment firm by the Slovenian Securities Market Agency (ATVP) and provides investment services and other ancillary services with regards to trading in crypto derivatives. Trading crypto derivatives carries significant risks and may result in substantial losses. Please trade responsibly and ensure you understand the associated risks. You can find more about the risks {generalTermsAndConditionsLink}. To help you understand the risks involved we have put together a series of {keyInformationDocumentsLink} highlighting the risks and rewards related to each derivatives contract.",
           generalTermsAndConditionsText: "here",
           keyInformationDocumentsLinkText: "Key Information Documents (KIDs)",
           notAvailableCountries: "Crypto derivatives trading is not available in the US, Canada, Japan and some other countries."
         },
-        copyright: "All rights reserved © {currentYear} Bitstamp."
+        copyright: "All rights reserved © {currentYear} Qovex."
       },
       mobileMenu: {
         sectionTitle: {
@@ -190,7 +190,7 @@
         emptyAccountBalanceText: "You don't have any assets on this account.",
         transferBetweenAccountsAction: "Transfer between accounts",
         createNewSubAccountAction: "Create new sub account",
-        getBitstampApp: "Get Bitstamp app"
+        getQovexApp: "Get Qovex app"
       }
     },
     pagination: {
@@ -314,7 +314,7 @@
       termsOfService: "Terms of Service"
     },
     kycSubtitle: {
-      internalUseOnlyDisclaimer: "This info is for internal Bitstamp use only.",
+      internalUseOnlyDisclaimer: "This info is for internal Qovex use only.",
       kycDisclaimer: "As a licensed financial services provider, we are obligated to collect the following information from all customers. We need to keep this data on file to fulfill our regulatory obligations, but we will never use it for any other purpose."
     },
     accountStatusTable: {
@@ -361,11 +361,11 @@
       generalInformationTitle: "General information",
       inControlTitle: "You are in control of your personal data.",
       inControlBody: {
-        md: `This interface will help you select what cookies and similar technologies are used while browsing the Bitstamp Site. Certain types of cookies are strictly necessary for running the Site and therefore cannot be turned off, as that would prevent the site from functioning as requested.
+        md: `This interface will help you select what cookies and similar technologies are used while browsing the Qovex Site. Certain types of cookies are strictly necessary for running the Site and therefore cannot be turned off, as that would prevent the site from functioning as requested.
 
-We use first-party and third-party cookies and other technologies to recognize you as a Bitstamp customer, customize services, content and advertising, measure promotional effectiveness, and collect information about your computer or other access device to mitigate risk, help prevent fraud, and promote trust and safety.`
+We use first-party and third-party cookies and other technologies to recognize you as a Qovex customer, customize services, content and advertising, measure promotional effectiveness, and collect information about your computer or other access device to mitigate risk, help prevent fraud, and promote trust and safety.`
       },
-      whatAreCookiesTitle: "What are cookies and why does Bitstamp use them?",
+      whatAreCookiesTitle: "What are cookies and why does Qovex use them?",
       whatAreCookiesBody: {
         md: `**Cookies** are small text files that enable us and our service providers to uniquely identify your browser or device. Cookies normally work by assigning a unique number to your device and are stored on your browser by the websites that you visit as well as third-party service providers for those websites.
 
@@ -379,9 +379,9 @@ Similar technologies we also use are:
       },
       ifEnabledTitle: "If enabled",
       ifEnabledBody: {
-        md: `*   We use cookies and other technologies to recognize you as a Bitstamp customer, customize Services, content and advertising, measure promotional effectiveness, and collect information about your computer or other access device to mitigate risk, help prevent fraud, and promote trust and safety
+        md: `*   We use cookies and other technologies to recognize you as a Qovex customer, customize Services, content and advertising, measure promotional effectiveness, and collect information about your computer or other access device to mitigate risk, help prevent fraud, and promote trust and safety
 *   We can improve your experience by remembering you from session to session
-*   We can better keep track of your preferences and improve Bitstamp accordingly
+*   We can better keep track of your preferences and improve Qovex accordingly
 *   It will help us improve the performance of our website`
       },
       ifDisabledTitle: "If disabled",
@@ -429,7 +429,7 @@ Similar technologies we also use are:
         manageSubAccountsAction: "Manage sub accounts"
       },
       downloadAppMenu: {
-        downloadLabel: "Download the Bitstamp app"
+        downloadLabel: "Download the Qovex app"
       },
       preferredCurrencySelector: {
         currencyLabel: "Currency",
@@ -589,9 +589,9 @@ Similar technologies we also use are:
       contactUsButton: "Contact us",
       titleText: "Fill out your contact info and we’ll be in touch",
       submitButton: "Submit",
-      submitPrivacyPolicyTextStart: "By submitting this form I confirm that I have read, understood and agreed to Bitstamp's",
+      submitPrivacyPolicyTextStart: "By submitting this form I confirm that I have read, understood and agreed to Qovex's",
       submitPrivacyPolicyTextLink: "Privacy Policy",
-      submitPrivacyPolicyTextEnd: "and I agree that Bitstamp can store and process my personal data.",
+      submitPrivacyPolicyTextEnd: "and I agree that Qovex can store and process my personal data.",
       helpLinkSingleMoreInfo: "For more information on this topic, please visit",
       helpLinksMultipleMoreInfo: "For more information on this topic, please visit the following articles:",
       helpLinksSendMessage: "If you are unable to find the answer you're looking for, send us a message and we'll be happy to assist you\n further.",
@@ -601,7 +601,7 @@ Similar technologies we also use are:
       formSubmitFailedText: "We're sorry, but it looks like something went wrong, and your message was not sent successfully. Please try\n submitting your message again.",
       thankYouExclamation: "Thank you!",
       thankYou: "Thank you",
-      bitstampTeam: "Bitstamp team",
+      bitstampTeam: "Qovex team",
       tryAgain: "Try again",
       global: "Global:",
       customerSupportLiveAssist: "Our customer support team is available to assist you live:",
@@ -620,10 +620,10 @@ Similar technologies we also use are:
       cancel: "Cancel",
       warningText: "Warning",
       addNewPaymentMethod: "Add new payment method",
-      recurringTerms: `I authorize Bitstamp to initiate and execute this transaction, as well as all recurring transactions, in accordance with the preferences I specified during the setup of the recurring {type} transaction.`,
+      recurringTerms: `I authorize Qovex to initiate and execute this transaction, as well as all recurring transactions, in accordance with the preferences I specified during the setup of the recurring {type} transaction.`,
       recurringPriceDisclaimer: "The current quoted price is valid for this first transaction only. Your future transaction(s) will be subject to the market price at the time of their execution. If we are unable to collect the necessary funds for your transaction, it will not be processed.",
       offerExpiresIn: "Offer expires in",
-      transactionDisclaimer: "This transaction is subject to a variable spread in the price. Bitstamp reserves the right to suspend the quote in the event of significant market volatility or similar impactful circumstances. If the quote is suspended, Bitstamp will provide a new quote.",
+      transactionDisclaimer: "This transaction is subject to a variable spread in the price. Qovex reserves the right to suspend the quote in the event of significant market volatility or similar impactful circumstances. If the quote is suspended, Qovex will provide a new quote.",
       recurringTransactionDisclaimer: 'Your first transaction will be executed promptly upon clicking "Confirm recurring {type}" below. Your next transaction(s) will be scheduled based on the preferences you specified during the setup of the recurring {type} transaction.',
       preview: "Preview",
       buyMore: "Buy more",
@@ -639,7 +639,7 @@ Similar technologies we also use are:
       growEarnDisclaimer: "Grow your {currency} by earning",
       annuallyThrough: "annually through {action}",
       reversalDisclaimer: "This transaction cannot be reversed. By continuing, you agree that you have reviewed and acknowledged this disclosure",
-      bitstampAgree: "I agree to Bitstamp's",
+      bitstampAgree: "I agree to Qovex's",
       authorizeCompany: "and authorize the company to debit my bank account for the entered amount on a one-time (irrevocable) transaction basis and, if necessary, to make adjustments for any debits made to my bank account in error",
       details: "Details",
       name: "Name",
@@ -658,7 +658,7 @@ Similar technologies we also use are:
       privacyPolicy: "Privacy Policy",
       paypalDisclaimer: 'By linking your <a href="{websiteUrl}" target="_blank" >PayPal</a> account, you will enable processing of payments by PayPal. You agree that PayPal may receive and process your personal data in accordance with their <a href="{privacyPolicyUrl}" target="_blank">Privacy policy</a>.',
       vaspRisk: `Don't invest unless you're prepared to lose all the money you invest. This is a high-risk investment and you should not expect to be protected if something goes wrong. <a href="{riskWarningLink}" target="_blank">Take 2 mins to learn more.</a>`,
-      vaspDisclaimer: `This screen displays a financial promotion which has been approved by Bitstamp UK Limited which is registered with the FCA. Please read the <a href="{riskDisclaimer}" target="_blank">Risk Warning Statement</a> before investing. Cryptoassets and cryptoasset services are not regulated by the FCA. You are unlikely to be protected if something goes wrong. Your investment may go down as well as up. You may be liable to pay Capital Gains Tax on any profits you earn.`,
+      vaspDisclaimer: `This screen displays a financial promotion which has been approved by Qovex UK Limited which is registered with the FCA. Please read the <a href="{riskDisclaimer}" target="_blank">Risk Warning Statement</a> before investing. Cryptoassets and cryptoasset services are not regulated by the FCA. You are unlikely to be protected if something goes wrong. Your investment may go down as well as up. You may be liable to pay Capital Gains Tax on any profits you earn.`,
       returnLabel: "Return",
       firstRecurring: "First recurring {type}",
       nextRecurring: "Next recurring {type}",
@@ -676,7 +676,7 @@ Similar technologies we also use are:
       temporaryAuthorizationDisclaimer: "A temporary authorization hold for a minor amount will appear in your account. This is a test transaction and is normally voided immediately, however the exact time required for the removal of authorization may vary depending on the financial institution.",
       disposableDisclaimerDescription: "We recommend avoiding Single Use/Disposable cards for crypto purchases. These cards are designed for a one-time transaction, which the linking process will use up, making them unsuitable for this purpose",
       daiDisclaimer: "DAI uses cryptocurrency collateral to maintain its peg to the US dollar. Any failure in the collateralization mechanism or the custodian holding the assets could adversely affect the value of DAI.",
-      stakingDisclaimer: 'Bitstamp stakes your {currency} automatically upon purchase. Opt-out anytime. More on Earn staking <a href="{stakingFaqUrl}" target="_blank">here</a>.',
+      stakingDisclaimer: 'Qovex stakes your {currency} automatically upon purchase. Opt-out anytime. More on Earn staking <a href="{stakingFaqUrl}" target="_blank">here</a>.',
       tryAgainLater: "Please try again later.",
       recurring: {
         oneTime: "One time",

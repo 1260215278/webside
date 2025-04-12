@@ -141,7 +141,7 @@ const _hoisted_2 = {
   key: 0,
   class: "sca-form__title"
 };
-const _hoisted_3 = { href: "mailto:support@bitstamp.net" };
+const _hoisted_3 = { href: "mailto:" };
 const _hoisted_4 = { class: "mt8 mb8 text--center text--light" };
 const _hoisted_5 = ["href"];
 function _sfc_render(_ctx, _cache, $props, $setup, $data, $options) {

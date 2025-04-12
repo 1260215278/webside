@@ -70,7 +70,7 @@ function _sfc_render(_ctx, _cache, $props, $setup, $data, $options) {
             createVNode(_component_CheckIcon, { class: "register-subtitle__check-icon" })
           ]),
           _cache[1] || (_cache[1] = createTextVNode()),
-          _cache[2] || (_cache[2] = createBaseVNode("li", { class: "register-subtitle__list--green" }, "\n            Open and verify your Bitstamp account\n          ", -1)),
+          _cache[2] || (_cache[2] = createBaseVNode("li", { class: "register-subtitle__list--green" }, "\n            Open and verify your Qovex account\n          ", -1)),
           _cache[3] || (_cache[3] = createTextVNode()),
           _cache[4] || (_cache[4] = createBaseVNode("li", null, "Make a single trade for $100 or more", -1))
         ])

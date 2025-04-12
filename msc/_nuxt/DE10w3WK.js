@@ -5411,7 +5411,7 @@ const Np = { render: Mp },
 function Gs() {
     const t = Jn(),
         e = hn();
-    return B(() => (!e.value && t.value ? window.Bitstamp.constants.hcaptchaKey ?? '' : ''));
+    return B(() => (!e.value && t.value ? window.Qovex.constants.hcaptchaKey ?? '' : ''));
 }
 const Dp = { key: 0, class: 'public-support-form__loading' },
     Vp = { class: 'form-title' },
@@ -5496,7 +5496,7 @@ const Dp = { key: 0, class: 'public-support-form__loading' },
                     !F && X && (await Fe());
                 }),
                 je(u, (F, X) => {
-                    F && !X && (g.value = window.Bitstamp.constants.hcaptchaKey ?? '');
+                    F && !X && (g.value = window.Qovex.constants.hcaptchaKey ?? '');
                 });
             function ke(F) {
                 e.value = F;
@@ -5662,11 +5662,11 @@ const Dp = { key: 0, class: 'public-support-form__loading' },
                                                       Q(ue, { class: 'public-support-form__submit-button', 'as-link': !1, onClick: $e }, { default: ae(() => [ce(I(F.$t('components.supportForm.tryAgain')), 1)]), _: 1 }),
                                                       $('div', Yp, [
                                                           X[1] || (X[1] = ce(' US: ')),
-                                                          X[2] || (X[2] = $('a', { href: 'tel:0018007125702' }, '+1 800 712 5702', -1)),
+                                                          X[2] || (X[2] = $('a', { href: 'tel:0018007125702' }, '', -1)),
                                                           X[3] || (X[3] = ce(' EU: ')),
-                                                          X[4] || (X[4] = $('a', { href: 'tel:0035220881096' }, '+352 20 88 10 96', -1)),
+                                                          X[4] || (X[4] = $('a', { href: 'tel:0035220881096' }, '', -1)),
                                                           ce(' ' + I(F.$t('components.supportForm.global')) + ' ', 1),
-                                                          X[5] || (X[5] = $('a', { href: 'tel:00442038689628' }, '+44 20 3868 9628', -1)),
+                                                          X[5] || (X[5] = $('a', { href: 'tel:00442038689628' }, '', -1)),
                                                           X[6] || (X[6] = $('br', null, null, -1)),
                                                           ce(' ' + I(F.$t('components.supportForm.customerSupportLiveAssist')), 1)
                                                       ])
@@ -6207,8 +6207,8 @@ const Zh = 60,
                 je([s, a], async (S) => {
                     var w, j;
                     if (S[0] && S[1]) {
-                        const R = window.Bitstamp.constants.marketConfig,
-                            L = window.Bitstamp.constants.currencyConfig;
+                        const R = window.Qovex.constants.marketConfig,
+                            L = window.Qovex.constants.currencyConfig;
                         R &&
                             R.forEach((N) => {
                                 c[N.key] = { ...N };
@@ -6599,7 +6599,7 @@ const Zh = 60,
                             const d = (await $fetch(l)).data;
                             d == null || delete d.constants.widgetsTags,
                                 (i = d == null ? void 0 : d.constants) != null && i.castleAppId && delete d.constants.castleAppId,
-                                d && ((d.constants.resetWidgetsState = !0), (window.Bitstamp = d), (window.BitstampConstants = window.Bitstamp.constants), (window.BitstampApiEndpoints = window.Bitstamp.constants), (window.BitstampPages = window.Bitstamp.constants)),
+                                d && ((d.constants.resetWidgetsState = !0), (window.Qovex = d), (window.QovexConstants = window.Qovex.constants), (window.QovexApiEndpoints = window.Qovex.constants), (window.QovexPages = window.Qovex.constants)),
                                 (a.value = !1),
                                 (s.value = !0);
                         } catch {

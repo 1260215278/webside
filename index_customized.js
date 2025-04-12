@@ -2029,8 +2029,24 @@ document.addEventListener('DOMContentLoaded', () => {
             // footerLogoElement.style.display = 'none';
                 footerLogoElement.innerHTML = logoSvg;
         }
+
+        let homePhpneLogo = document.querySelector('.video-container');
+
+        if (homePhpneLogo) {
+            // video
+            let videoElement = homePhpneLogo.querySelector('video');
+            if (videoElement) {
+                videoElement.style.display = 'none';
+                let imgElement = document.createElement('img');
+                imgElement.style.cssText = 'width: 100%; height: 100%; position: absolute; top: 0; left: 0;';
+                imgElement.src = '/home.png';
+                imgElement.alt = 'home';
+                imgElement.className = 'home-phone-logo';
+                homePhpneLogo.appendChild(imgElement);
+            }
+           
+        }
     }
-    console.log('this✅--', this);
     // initPageDate();
     setTimeout(() => {
         initPageDate();
